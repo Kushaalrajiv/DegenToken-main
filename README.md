@@ -1,13 +1,17 @@
-# Sample Hardhat Project
+# Avalanchemod4
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This code provides a brief understanding about the Degen token functionalities.
 
-Try running some of the following tasks:
+## Description
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+This program lets us create a new token called Degen and we are able to explore different functionalities which can be implemented using this token.
+
+## Authors
+
+Kushaal R
+
+@kushaalrajiv@gmail.com
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
